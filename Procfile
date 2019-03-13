@@ -1,1 +1,1 @@
-worker: node melly.js
+worker: node init.js
